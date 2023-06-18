@@ -1,0 +1,5 @@
+- Restyle to look different
+- Optimise further by breaking down into a button class for the hover and cursor effects etc.7
+- Add a timer to control session
+- Remove tempo text feature
+- Different click tones
